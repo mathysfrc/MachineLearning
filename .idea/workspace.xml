@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9169c883-ce4f-4013-a455-50e3046f41c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ExamenMachineLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images_test/bouteille.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images_test/journaux.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images_test/reste_nouriture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recyclable&amp;waste.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="9169c883-ce4f-4013-a455-50e3046f41c7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748612259179</updated>
-      <workItem from="1748612260255" duration="10179000" />
+      <workItem from="1748612260255" duration="10570000" />
     </task>
     <servers />
   </component>
